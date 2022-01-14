@@ -116,7 +116,7 @@ body {
   font-size: 1.2em;
 }
 .navigation.active span:hover {
-  background: rgb(149, 182, 209);
+  background: orange;
 }
 .navigation.active span:hover i {
   color: black;
